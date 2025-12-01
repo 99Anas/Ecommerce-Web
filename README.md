@@ -1,2 +1,3 @@
 # Ecommerce-Web
-This is an E-Commerce Web where html CSS and JS is used to make it.
+This is an E-Commerce Web where html CSS and JS is used to make it. <br>
+This is my Ecommerce Website.
